@@ -4,8 +4,8 @@ LockedMe - Virtual Key for Repositories
 LockedMe is a simple Java Console based program which allow users to input menu options for following:-
 
 * Displaying File/Folder structure. 
-* Search for File/Folder recursively.
-* Add/Delete File/Folder recursively.
+* Search for File/Folder.
+* Add/Delete File/Folder.
 
 ## Deliverables
 Welcome screen which displays the application name and the developer details.
